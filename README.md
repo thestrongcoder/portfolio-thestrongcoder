@@ -1,0 +1,2 @@
+# portfolio-thestrongcoder
+Professional portfolio 
